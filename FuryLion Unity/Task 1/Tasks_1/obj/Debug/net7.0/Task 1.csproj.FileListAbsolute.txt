@@ -1,0 +1,5 @@
+D:\other proj\FuryLion Unity\Task 1\Task 1\obj\Debug\net7.0\Task 1.csproj.AssemblyReference.cache
+D:\other proj\FuryLion Unity\Task 1\Task 1\obj\Debug\net7.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\other proj\FuryLion Unity\Task 1\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfoInputs.cache
+D:\other proj\FuryLion Unity\Task 1\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfo.cs
+D:\other proj\FuryLion Unity\Task 1\Task 1\obj\Debug\net7.0\Task 1.csproj.CoreCompileInputs.cache
