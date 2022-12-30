@@ -61,7 +61,21 @@ public  class Tasks
     }
     public void Task_7()
     {
-        
+        var input =Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        var sum_1 = 0;
+        var sum_2 = 0;
+        for ( int i = 0; i <= input.Length; i++)
+        {
+            if (i % 2 == 0)
+            {
+                sum_1 += input[i];
+            }
+            else
+            {
+                sum_2 += input[i];
+            }
+        }
+        Console.WriteLine($"{sum_1}, {sum_2}");
     }
     public void Task_8()
     {

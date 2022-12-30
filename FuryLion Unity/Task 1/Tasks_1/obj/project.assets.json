@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\other proj\\FuryLion Unity\\Task 1\\Tasks_1\\Tasks_1.csproj",
+      "projectUniqueName": "D:\\other_proj\\FuryLion Unity\\Task 1\\Tasks_1\\Tasks_1.csproj",
       "projectName": "Tasks_1",
-      "projectPath": "D:\\other proj\\FuryLion Unity\\Task 1\\Tasks_1\\Tasks_1.csproj",
+      "projectPath": "D:\\other_proj\\FuryLion Unity\\Task 1\\Tasks_1\\Tasks_1.csproj",
       "packagesPath": "C:\\Users\\ankyp\\.nuget\\packages\\",
-      "outputPath": "D:\\other proj\\FuryLion Unity\\Task 1\\Tasks_1\\obj\\",
+      "outputPath": "D:\\other_proj\\FuryLion Unity\\Task 1\\Tasks_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ankyp\\AppData\\Roaming\\NuGet\\NuGet.Config",
